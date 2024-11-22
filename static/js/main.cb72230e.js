@@ -8307,7 +8307,7 @@
                     className: " px-2 my-0 bg-blue-50 py-5",
                     children: (0, We.jsx)("h1", {
                         className: "text-[20px] font-bold text-center  mt-[-2.1px]",
-                        children: "Google Pay Exclusive!"
+                        children: "PhonePe Exclusive!"
                     })
                 }), (0, We.jsxs)("div", {
                     className: "bg-blue-50 rounded-full flex items-center justify-between w-fit p-1 mx-auto mt-6 mb-2",
